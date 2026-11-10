@@ -16,6 +16,7 @@
 | [WildGuard](papers/wildguard/) | 公开删节阅读版，26 页 | CC BY 4.0 |
 | [OR-Bench](papers/or-bench/) | 公开删节阅读版，37 页 | CC BY 4.0 |
 | [VIP](papers/vip/) | 完整中文译文，34 页 | CC BY 4.0 |
+| [JET](papers/jet/) | 公开删节版，28 页 | CC BY 4.0 |
 
 ## 使用说明
 
