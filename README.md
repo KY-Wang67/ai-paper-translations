@@ -15,6 +15,7 @@
 | [XSTest](papers/xstest/) | 公开删节阅读版，20 页 | CC BY 4.0 |
 | [WildGuard](papers/wildguard/) | 公开删节阅读版，26 页 | CC BY 4.0 |
 | [OR-Bench](papers/or-bench/) | 公开删节阅读版，37 页 | CC BY 4.0 |
+| [VIP](papers/vip/) | 完整中文译文，34 页 | CC BY 4.0 |
 
 ## 使用说明
 
