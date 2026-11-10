@@ -17,6 +17,7 @@
 | [OR-Bench](papers/or-bench/) | 公开删节阅读版，37 页 | CC BY 4.0 |
 | [VIP](papers/vip/) | 完整中文译文，34 页 | CC BY 4.0 |
 | [JET](papers/jet/) | 公开删节版，28 页 | CC BY 4.0 |
+| [Spurious Rewards](papers/spurious-rewards/) | PMLR 正式版的公开删节译文，40 页 | CC BY 4.0 |
 
 ## 使用说明
 
