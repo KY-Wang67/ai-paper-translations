@@ -18,6 +18,7 @@
 | [VIP](papers/vip/) | 完整中文译文，34 页 | CC BY 4.0 |
 | [JET](papers/jet/) | 公开删节版，28 页 | CC BY 4.0 |
 | [Spurious Rewards](papers/spurious-rewards/) | PMLR 正式版的公开删节译文，40 页 | CC BY 4.0 |
+| [Constitutional AI](papers/constitutional-ai/) | 公开译本，40 页，保留明确安全/版权删节 | 译本改编 CC BY-SA 4.0；MIT代码例外 |
 
 ## 使用说明
 
