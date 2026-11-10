@@ -9,9 +9,9 @@
 | [Conformal Thinking](papers/conformal-thinking/) | 完整中文译文，23 页 | CC BY 4.0 |
 | [On Calibration of Modern Neural Networks](papers/on-calibration/) | PMLR 正式版及官方补充材料完整译文，27 页 | CC BY 4.0 |
 | [SelectiveNet](papers/selectivenet/) | PMLR 正式版完整译文，22 页 | CC BY 4.0 |
-| [Self-Consistency](papers/self-consistency/) | 公开删节版，24 页 | CC BY 4.0 |
-| [DPO](papers/dpo/) | 公开删节版，29 页 | CC BY 4.0 |
-| [RLCR / Beyond Binary Rewards](papers/rlcr/) | 公开删节版，40 页 | CC BY 4.0 |
+| [Self-Consistency](papers/self-consistency/) | v1.2 已恢复部分GSM8K和ARC样例，28 页，仍有删节 | 分项 CC BY 4.0 / MIT / CC BY-SA 4.0 |
+| [DPO](papers/dpo/) | v1.2 已恢复表7–10，33 页，仍有删节 | 论文/译文 CC BY 4.0；部分示例 MIT |
+| [RLCR / Beyond Binary Rewards](papers/rlcr/) | v1.2 恢复SimpleQA和图1(b)(c)，43 页，仍有删节 | 论文/译文 CC BY 4.0；SimpleQA材料 MIT |
 | [XSTest](papers/xstest/) | 公开删节阅读版，20 页 | CC BY 4.0 |
 | [WildGuard](papers/wildguard/) | 公开删节阅读版，26 页 | CC BY 4.0 |
 | [OR-Bench](papers/or-bench/) | 公开删节阅读版，37 页 | CC BY 4.0 |
