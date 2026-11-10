@@ -1,0 +1,69 @@
+AdaCD Chinese translation — public reviewed edition v1.1 (2026-11-10)
+
+ORIGINAL WORK
+Yupeng Qi, Ziyu Lyu, Lixin Cui, Lu Bai, and Feng Xia. 2026.
+Please refuse to answer me! Mitigating Over-Refusal in Large Language Models
+via Adaptive Contrastive Decoding.
+Proceedings of the 64th Annual Meeting of the Association for Computational
+Linguistics (Volume 1: Long Papers), pages 39308–39325.
+Association for Computational Linguistics.
+Copyright © 2026 Association for Computational Linguistics.
+DOI: 10.18653/v1/2026.acl-long.1823
+https://aclanthology.org/2026.acl-long.1823/
+https://aclanthology.org/2026.acl-long.1823.pdf
+
+DOCUMENT LICENSE
+Original ACL-owned material is licensed under Creative Commons Attribution
+4.0 International (CC BY 4.0), under the ACL copyright policy for material
+published in or after 2016:
+https://aclanthology.org/info/copyright/
+
+License notice and official legal terms:
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+The copyrightable Chinese translation, retypesetting, redrawn diagrams and
+translator notes are also made available under CC BY 4.0. This is an
+unofficial, AI-assisted translation prepared with dot. The license allows
+sharing and adaptation, including commercial use, subject to its terms.
+Retain the author attribution, source, license notice and links, disclaimer,
+and existing modification notices; identify subsequent modifications.
+No additional legal or technological restrictions are imposed here.
+
+MODIFICATIONS
+Version 1.0 translated the prose and captions, retained the bibliographic
+records with Chinese title translations, retypeset tables, reformatted
+Figure 1, redrew Figure 2 from its original values, and marked apparent
+source inconsistencies in translator notes.
+Version 1.1 adds provenance, license and non-endorsement notices; redraws
+Figure 3 while explicitly omitting unverified trademark/decorative icons;
+replaces the short anchoring quotation with an attributed paraphrase;
+restores the complete visible boundaries of Figure 8; and embeds only the
+visible research graphics for Figures 4–8. Author research results, formulas
+and numerical tables have not been substantively changed.
+
+THIRD-PARTY MATERIAL
+ACL's license does not automatically extend to third-party material.
+The four reproduced XSTest queries are separately available under CC BY 4.0:
+Paul Röttger, Hannah Kirk, Bertie Vidgen, Giuseppe Attanasio,
+Federico Bianchi, and Dirk Hovy, XSTest.
+https://github.com/paul-rottger/xstest
+https://github.com/paul-rottger/xstest/blob/main/LICENSE
+https://huggingface.co/datasets/Paul/XSTest/blob/3f8937eda8689fdbb60d9cf34b15556337068803/xstest_prompts.csv
+Their original English text is retained; the Chinese translations are new.
+See THIRD_PARTY_NOTICES.md for the exact item IDs and uses.
+Embedded Noto and Computer Modern font subsets remain under SIL Open Font
+License 1.1. Their notices and the complete OFL text are in FONT_LICENSES.txt.
+These font terms do not apply to the document created with the fonts.
+
+NO ENDORSEMENT; DISCLAIMER
+Neither the original authors, ACL, XSTest authors, model providers nor font
+authors endorse this translation or its publisher. No such endorsement may
+be implied. The material is provided as-is, without warranties, including
+accuracy, fitness for a purpose or non-infringement, to the extent permitted
+by law. The official CC BY 4.0 terms govern its warranty and liability limits.
+Trademark, privacy, publicity, patent and other rights may remain outside
+the scope of these copyright licenses.
+
+Model outputs are reported research observations and may be inaccurate or
+inappropriate; they are not instructions or advice from the translator.

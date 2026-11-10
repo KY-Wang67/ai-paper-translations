@@ -20,6 +20,7 @@
 | [Spurious Rewards](papers/spurious-rewards/) | PMLR 正式版的公开删节译文，40 页 | CC BY 4.0 |
 | [Constitutional AI](papers/constitutional-ai/) | 公开译本，40 页，保留明确安全/版权删节 | 译本改编 CC BY-SA 4.0；MIT代码例外 |
 | [Chain-of-Thought Prompting](papers/chain-of-thought/) | 公开译本，56 页，含定点删节 | 论文/译文 CC BY 4.0；第三方材料 MIT / Apache 2.0 |
+| [AdaCD / Please Refuse to Answer Me!](papers/adacd/) | 公开审校译本，30 页，图标省略及重绘详见说明 | 论文/译文与 XSTest 样例 CC BY 4.0；字体 OFL 1.1 |
 
 ## 使用说明
 
